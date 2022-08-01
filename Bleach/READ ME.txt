@@ -1,0 +1,1 @@
+Make sure to wait a little after running the game file. It can take up to 5 minutes to load all the presets. It's still in development and i hope you enjoy it!
